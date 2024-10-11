@@ -1,0 +1,18 @@
+/* html * {
+    font-family: Nunito, sans-serif;
+} */
+
+table.table.dataTable,
+table.table.dataTable td,
+table.table.dataTable th {
+    border: 1px solid rgba(220, 220, 220, 0.5);
+}
+
+table.table {
+    width: 100% !important;
+}
+
+table.table.dataTable {
+    width: 100%;
+    border-collapse: collapse;
+}
